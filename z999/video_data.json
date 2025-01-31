@@ -6,6 +6,12 @@
         "firsttitle": "Introduction to Python"
     },
     {
+        "firstname": "Luana",
+        "lastname": "Alves",
+        "firstappearence": "2023-02-15",
+        "firsttitle": "Advanced Python Techniques"
+    },
+    {
         "firstname": "Caramel",
         "lastname": "CurlyRican",
         "firstappearence": "2023-02-15",
@@ -36,14 +42,44 @@
         "firsttitle": "Advanced Python Techniques"
     },
     {
+        "firstname": "Brittany",
+        "lastname": "White",
+        "firstappearence": "2023-02-15",
+        "firsttitle": "Advanced Python Techniques"
+    },
+    {
+        "firstname": "Bella",
+        "lastname": "Bellz",
+        "firstappearence": "2023-02-15",
+        "firsttitle": "Advanced Python Techniques"
+    },
+    {
+        "firstname": "Cecila",
+        "lastname": "Lio",
+        "firstappearence": "2023-02-15",
+        "firsttitle": "Advanced Python Techniques"
+    },
+    {
+        "firstname": "Jada",
+        "lastname": "Stevens",
+        "firstappearence": "2023-02-15",
+        "firsttitle": "Advanced Python Techniques"
+    },
+    {
         "firstname": "Destiny",
         "lastname": "Diamond",
         "firstappearence": "2023-02-15",
         "firsttitle": "Advanced Python Techniques"
     },
     {
-        "firstname": "Naomi",
-        "lastname": "Russell",
+        "firstname": "Destiny",
+        "lastname": "Diamond",
+        "firstappearence": "2023-02-15",
+        "firsttitle": "Advanced Python Techniques"
+    },
+    {
+        "firstname": "Brittany",
+        "lastname": "White",
         "firstappearence": "2023-02-15",
         "firsttitle": "Advanced Python Techniques"
     }
