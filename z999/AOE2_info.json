@@ -1,0 +1,82 @@
+{
+  "civilizations": [
+    {
+      "name": "Ethiopians",
+      "focus": ["Archers", "Siege"],
+      "unique_unit": "Shotel Warrior",
+      "unique_technologies": ["Royal Heirs", "Torsion Engines"],
+      "civilization_bonuses": [
+        "Archers fire 18% faster",
+        "Receive +100 food and +100 gold when advancing to the next Age",
+        "Pikeman upgrade is free upon reaching Castle Age"
+      ],
+      "team_bonus": "Towers and Outposts have +3 Line of Sight"
+    },
+    {
+      "name": "Aztecs",
+      "focus": ["Infantry", "Monks"],
+      "unique_unit": "Jaguar Warrior",
+      "unique_technologies": ["Atlatl", "Garland Wars"],
+      "civilization_bonuses": [
+        "Start with Eagle Scout",
+        "Villagers carry +3 resources",
+        "Military units created 15% faster",
+        "Monks gain +5 HP per Monastery tech",
+        "Start with +50 gold"
+      ],
+      "team_bonus": "Relics generate +33% gold"
+    },
+    {
+      "name": "Britons",
+      "focus": ["Foot Archers"],
+      "unique_unit": "Longbowman",
+      "unique_technologies": ["Yeomen", "Warwolf"],
+      "civilization_bonuses": [
+        "Town Centers cost -50% wood (Castle Age)",
+        "Foot archers +1/+2 range (Castle/Imperial Age)",
+        "Shepherds work 25% faster"
+      ],
+      "team_bonus": "Archery Ranges work 10% faster"
+    },
+    {
+      "name": "Franks",
+      "focus": ["Cavalry"],
+      "unique_unit": "Throwing Axeman",
+      "unique_technologies": ["Bearded Axe", "Chivalry"],
+      "civilization_bonuses": [
+        "Farm upgrades are free",
+        "Castles cost -25%",
+        "Cavalry +20% HP",
+        "Foragers work 15% faster"
+      ],
+      "team_bonus": "Knights +2 line of sight"
+    },
+    {
+      "name": "Byzantines",
+      "focus": ["Defense"],
+      "unique_unit": "Cataphract",
+      "unique_technologies": ["Greek Fire", "Logistica"],
+      "civilization_bonuses": [
+        "Buildings have +10% to +40% HP (per Age)",
+        "Camel, Skirmisher, Spearman lines cost -25%",
+        "Fire Ships attack 20% faster",
+        "Imperial Age costs -33%",
+        "Town Watch and Town Patrol are free"
+      ],
+      "team_bonus": "Monks heal 100% faster"
+    },
+    {
+      "name": "Mongols",
+      "focus": ["Cavalry", "Archers"],
+      "unique_unit": "Mangudai",
+      "unique_technologies": ["Nomads", "Drill"],
+      "civilization_bonuses": [
+        "Scouts +30% HP",
+        "Huntables gathered 50% faster",
+        "Cavalry Archers fire 25% faster",
+        "Siege Workshop units move 50% faster"
+      ],
+      "team_bonus": "Scout line +2 line of sight"
+    }
+  ]
+}
